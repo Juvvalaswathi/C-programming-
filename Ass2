@@ -1,0 +1,3 @@
+n=int(input("enter the values"));
+m=n*60
+print(m)
