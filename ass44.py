@@ -1,0 +1,19 @@
+n=int(input("enter number of elements:"))
+
+count=0
+
+I=list(map(int,input("enter list elements: ").split()))
+
+for i in range(0,n,1):
+
+k=i+1
+
+for j in range(k,n,1):
+
+if(l[i]==[j]):
+
+count+=1
+
+break
+
+print(count)
